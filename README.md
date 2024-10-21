@@ -5,3 +5,4 @@
 - git commit
 - git push local:remote
 - git log
+- git push
